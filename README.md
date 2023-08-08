@@ -29,7 +29,7 @@ The primary objective of this project is to utilize data science techniques to a
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/cricket-analysis.git`
+1. Clone this repository: `https://github.com/Krishnalilahane/Cricket_analysis`
 2. Navigate to the project directory: `cd cricket-analysis`
 3. Install the required packages: `pip install -r requirements.txt`
 
